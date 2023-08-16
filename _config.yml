@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hamid's Webpage"
+title                    : "MHA's Webpage"
 title_separator          : "-"
 name                     : &name "Mohammad Hamid Asnawi"
 description              : &description "personal description"
