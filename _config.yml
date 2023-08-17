@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MHA's Webpage"
+title                    : "Hamid's Homepage"
 title_separator          : "-"
 name                     : &name "Mohammad Hamid Asnawi"
 description              : &description "personal description"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Mohammad-Asnawi"
+  researchgate     : "https://www.researchgate.net/profile/Mohammad-Asnawi"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
