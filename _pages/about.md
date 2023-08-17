@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hamid's Homepage"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,5 +26,5 @@ My academic journey began at Universitas Padjadjaran, where I earned my Bachelor
 I firmly believe that the path to progress is paved with collaboration and shared knowledge. So, if you're intrigued by the possibilities of data, AI, and machine learning, let's join forces to make a tangible impact in these realms. Whether it's a question, an idea, or a spark of inspiration, I'm here and excited to engage.
 
 <p align="center">
-  <strong>Here's to pushing boundaries, unraveling mysteries, and creating a future woven with the threads of innovation.</strong>
+  <strong>🌌Here's to pushing boundaries, unraveling mysteries, and creating a future woven with the threads of innovation🌌</strong>
 </p>
