@@ -8,7 +8,7 @@ collection: portfolio
 # SkinGorithm: know what you need!
 
 <p align="center">
-  <img src="../images/skin.png", width="227" height="328">
+  <img src="../images/32.png">
 </p>
 
 
@@ -18,15 +18,16 @@ Skin Gorithm is an application that helps users in their skincare journey. With 
 
 ## Team Members
 
-
-| Name                           | Division           | University                          | Contact                                                                                                                                                                                           |
+| Name                           | Division           | University                          | Contact                                                                                                                                                                                            |
 | ------------------------------ | ------------------ |  ---------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mohammad Hamid Asnawi          | Machine Learning   | Universitas Padjadjaran             | <a href="https://www.linkedin.com/in/mhamidasn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
-| Nuril Hidayati                 | Machine Learning   | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/nuril-hidayati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
-| Ahdan Amanullah Irfan Muzhafar | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/ahdan-amanullah-irfan-muzhaffar-1335b8178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
-| Husin Muhammad Assegaff        | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/husinassegaff/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
-| Difa Maulana                   | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/difa-maulana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
-| Taris Muhammad Hadyansyah      | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/taris-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
+| Mohammad Hamid Asnawi          | Machine Learning   | Universitas Padjadjaran             | <a href="https://www.linkedin.com/in/mhamidasn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                                  |
+| Nuril Hidayati                 | Machine Learning   | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/nuril-hidayati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                             |
+| Ahdan Amanullah Irfan Muzhafar | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/ahdan-amanullah-irfan-muzhaffar-1335b8178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  |
+| Husin Muhammad Assegaff        | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/husinassegaff/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                              |
+| Difa Maulana                   | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/difa-maulana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                               |
+| Taris Muhammad Hadyansyah      | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/taris-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                             |
+
+
 <br>
 
 if you are interested in discussing this project issues with us, please contact us 
