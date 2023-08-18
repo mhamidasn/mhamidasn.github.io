@@ -1,7 +1,7 @@
 ---
 title: "SkinGorithm: know what you need!"
 excerpt: "Skin Gorithm is an application that helps users in their skincare journey
-<br/><p align="center"><img src='/images/skin 300.png'></p>"
+<br/><img src='/images/skin 300.png'>"
 collection: portfolio
 ---
 
