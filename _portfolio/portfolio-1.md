@@ -1,7 +1,7 @@
 ---
 title: "SkinGorithm: know what you need!"
-excerpt: "Skin Gorithm is an application that helps users in their skincare journey
-<br/><p align="center"><img src='/images/skin 300.png'></p>"
+excerpt: "Skin Gorithm is an application that helps users in their skincare journey. With this app users can understand more about the skincare function, pros, and cons based on the ingredients, providing a facial skin reviewer that allows user to know their facial condition, alarm feature to remind the users of their skincare daily usage, and the most important thing they can see their progress in their skincare journey!<br/><img src='/images/Group 12.png'>"
+date: 2022-12-27
 collection: portfolio
 ---
 
