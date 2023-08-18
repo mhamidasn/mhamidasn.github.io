@@ -8,7 +8,7 @@ collection: portfolio
 # SkinGorithm: know what you need!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99332005/172110105-f347d377-cbb0-46ae-a647-69443dbb9b4b.png", width="227" height="328">
+  <img src="../images/skin.png", width="227" height="328">
 </p>
 
 
@@ -18,7 +18,8 @@ Skin Gorithm is an application that helps users in their skincare journey. With 
 
 ## Team Members
 
-| Name                           | Division      | University                          | Contact                                                                                                                                                                                           |
+
+| Name                           | Division           | University                          | Contact                                                                                                                                                                                           |
 | ------------------------------ | ------------------ |  ---------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mohammad Hamid Asnawi          | Machine Learning   | Universitas Padjadjaran             | <a href="https://www.linkedin.com/in/mhamidasn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
 | Nuril Hidayati                 | Machine Learning   | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/nuril-hidayati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                            |
