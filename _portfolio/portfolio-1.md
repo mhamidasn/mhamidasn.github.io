@@ -8,7 +8,7 @@ collection: portfolio
 # SkinGorithm: know what you need!
 
 <p align="center">
-  <img src="../images/32.png" alt="Alt text">
+  <img src="/images/32.png" alt="Alt text">
 </p>
 
 
