@@ -12,4 +12,6 @@ In the 2020/2021 academic year, I served as an assistant teacher for a database 
 
 For your reference, I've attached my certificate for this role. 
 
-![Alt text](</images/Hamid - BASDAT.png>)
+<p align="center">
+  <img src="../images/Hamid - BASDAT.png" alt="Alt text">
+</p>
