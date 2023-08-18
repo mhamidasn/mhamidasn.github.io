@@ -2,10 +2,7 @@
 main:
   - title: "Publications"
     # url: /publications/
-    url: https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en
-
-  - title: "Talks"
-    url: /talks/    
+    url: https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en 
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,6 +12,9 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/   
     
   - title: "CV"
     url: /cv/
