@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
-
 <p align="center">
   <strong>🌌Welcome to my corner of the digital universe!🌌</strong>
 </p>
