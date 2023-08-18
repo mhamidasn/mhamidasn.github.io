@@ -4,6 +4,9 @@ main:
     # url: /publications/
     url: https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en 
 
+  - title: "Certificate"
+    url: /certificate/  
+
   - title: "Teaching"
     url: /teaching/    
     
