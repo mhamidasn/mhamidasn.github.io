@@ -1,6 +1,6 @@
 ---
 title: 
-permalink: /certification/
+permalink: /certificate/
 author_profile: true
 ---
 ## Certification
