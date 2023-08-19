@@ -1,14 +1,8 @@
 ---
-title: 
+title: Hamid's Certification Archive
 permalink: /certificate/
 author_profile: true
 ---
-<center>
-
-# Hamid's Certification Archive
-
-</center>
-
 Click on the related title certificate to verify and see its certification and credibility.
 
 ## Certification
