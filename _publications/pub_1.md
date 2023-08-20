@@ -36,6 +36,7 @@ Tenaga kesehatan memiliki peran penting dalam pemenuhan hak asasi manusia, yang 
 
 [[Publication]](https://prosiding.statistics.unpad.ac.id/?journal=prosidingsns&page=article&op=view&path%5B%5D=74)
 [[Download paper here]](https://www.researchgate.net/profile/Puspa-Rahmah/publication/360334061_Penerapan_Analisis_Korespondensi_Untuk_Memetakan_Provinsi-Provinsi_di_Indonesia_Berdasarkan_Jumlah_Tenaga_Kesehatan/links/6270a782b1ad9f66c89c3463/Penerapan-Analisis-Korespondensi-Untuk-Memetakan-Provinsi-Provinsi-di-Indonesia-Berdasarkan-Jumlah-Tenaga-Kesehatan.pdf)
+
 </center>
 
 **For proper citation, refer [here](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Penerapan+Analisis+Korespondensi+Untuk+Memetakan+Provinsi-Provinsi+di+Indonesia+Berdasarkan+Jumlah+Tenaga+Kesehatan&btnG=#d=gs_cit&t=1692516230052&u=%2Fscholar%3Fq%3Dinfo%3AOXtdUsBp2PAJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Did)**
