@@ -2,14 +2,13 @@
 title: "Analisis Klaster Hirarki untuk Mengelompokan Provinsi di Indonesia berdasarkan Indikator Kesejahteraan Rakyat"
 collection: publications
 permalink: /publication/pub_2
-date: 2021-01-01
+date: 2021-01-02
 excerpt: '**Abstract**<br>Indonesia adalah salah satu negara berkembang dengan tingkat keberagaman yang tinggi. Keberagaman antar provinsi di Indonesia menyebabkan tingkat kesejahteraan yang berbeda-beda dan tidak merata. Hal inilah yang menjadi masalah yang sangat serius karena pemerintah tidak mampu mengklasifikasikan permasalahan yang ada untuk kesejahteraan yang lebih merata. Dampak yang disebabkan ialah kebijakan pemerintah yang sering salah sasaran dalam membantu masyarakat. Penelitian ini bertujuan untuk mengelompokan provinsi di Indonesia menggunakan Analisis Klaster Hirarki berdasarkan indikator kesejahteraan rakyat, yaitu persentase penduduk yang memiliki jaminan kesehatan, status kepemilikan bangunan tempat tinggal yang ditempati, sumber air utama yang digunakan rumah tangga, sumber penerangan utama, bahan bakar utama yang digunakan untuk memasak, serta memiliki komputer ditempat tinggal masing-masing. Penelitian ini menggunakan data sekunder berupa data cross section 34 Provinsi di Indonesia pada tahun 2019. Hasil dari penelitian ini menunjukan bahwa metode cluster centroid merupakan metode yang terbaik dengan nilai korelasi cophenetic sebesar 0.9094806. Metode cluster hirarki centroid menghasilkan 6 kelompok, yaitu kelompok dengan tingkat kesejahteraan rakyat tinggi sebanyak 1 provinsi dan kelompok dengan tingkat kesejahteraan rakyat rendah sebanyak 5 provinsi.'
-venue: 'Seminar Nasional Statistika X 2021'
+venue: 'Seminar Nasional Statistika X'
 tags:
   - conference paper
   - bahasa indonesia
 ---
-
 ## Abstract
 Indonesia adalah salah satu negara berkembang dengan tingkat keberagaman yang tinggi. Keberagaman antar provinsi di Indonesia menyebabkan tingkat kesejahteraan yang berbeda-beda dan tidak merata. Hal inilah yang menjadi masalah yang sangat serius karena pemerintah tidak mampu mengklasifikasikan permasalahan yang ada untuk kesejahteraan yang lebih merata. Dampak yang disebabkan ialah kebijakan pemerintah yang sering salah sasaran dalam membantu masyarakat. Penelitian ini bertujuan untuk mengelompokan provinsi di Indonesia menggunakan Analisis Klaster Hirarki berdasarkan indikator kesejahteraan rakyat, yaitu persentase penduduk yang memiliki jaminan kesehatan, status kepemilikan bangunan tempat tinggal yang ditempati, sumber air utama yang digunakan rumah tangga, sumber penerangan utama, bahan bakar utama yang digunakan untuk memasak, serta memiliki komputer ditempat tinggal masing-masing. Penelitian ini menggunakan data sekunder berupa data cross section 34 Provinsi di Indonesia pada tahun 2019. Hasil dari penelitian ini menunjukan bahwa metode cluster centroid merupakan metode yang terbaik dengan nilai korelasi cophenetic sebesar 0.9094806. Metode cluster hirarki centroid menghasilkan 6 kelompok, yaitu kelompok dengan tingkat kesejahteraan rakyat tinggi sebanyak 1 provinsi dan kelompok dengan tingkat kesejahteraan rakyat rendah sebanyak 5 provinsi.
 <br>
