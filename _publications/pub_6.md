@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/pub_6
 date: 2022-02-01
 excerpt: '**Abstract**<br>COVID-19 statistics in Indonesia show more than 4.2 million active confirmed cases with more than 140 thousand deaths. The Indonesian government has made several policies to reduce the number of COVID-19 cases, one of them is by implementing the PeduliLindungi application. The government has socialized and recommended this application as an effort to fulfill the tracking, tracing, and fencing program. Various kinds of responses appear in the community to this application, therefore sentiment analysis is needed to find out public trends so that the government can evaluate the policies that have been made. This study aims to determine the best model from the comparison of the Naïve Bayes algorithm and the Support Vector Machine, besides that this study will also see whether a simpler model such as Naive Bayes is still good in handling binary sentiment for PeduliLindungi data reviews. The data was obtained by web scraping from the PeduliLindungi application review on the Google Play Store. The Naïve Bayes accuracy value is 81%, smaller than the Support Vector Machine which has an accuracy of 84%, although the Support Vector Machine is the best model we have, Naive Bayes itself can still be used to handle binary sentiment data because the difference in accuracy values is not too far.'
-venue: 'Seminar Nasional Statistika X'
+venue: 'IEEE'
 tags:
   - conference paper
   - english
