@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For more detailed and comprehensive information on all of my publications, please refer to my [Google Scholar account]().
+For more detailed and comprehensive information on all of my publications, please refer to my [Google Scholar account](https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en).
 
 **<center> Citation Graph per Year from Google Scholar </center>**
 
@@ -16,6 +16,7 @@ For more detailed and comprehensive information on all of my publications, pleas
 
 Below, you can find summaries, related information for each publication, and download the respective papers.
 
+## Hamid's Publication Archie
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
