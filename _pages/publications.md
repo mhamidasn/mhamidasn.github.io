@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For more detailed and comprehensive information on all of my publications, please refer to my [Google Scholar account](https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en).
+For more detailed and comprehensive information on all of my publications, please refer to my **[Google Scholar account](https://scholar.google.com/citations?user=VtFoSwsAAAAJ&hl=en)**.
 
 **<center> Citation Graph per Year from Google Scholar </center>**
 
