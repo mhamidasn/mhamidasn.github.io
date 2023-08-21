@@ -20,8 +20,8 @@ main:
   #  url: /talks/   
     
   - title: "CV"
-    url: /cv/
-    #url: /files/CV-Mohammad Hamid Asnawi.pdf
+    #url: /cv/
+    url: /files/CV-Mohammad Hamid Asnawi.pdf
     
   #- title: "Guide"
   #  url: /markdown/ #here's the tutorial for markdown
