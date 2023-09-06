@@ -1,44 +1,53 @@
 ---
-title: "SkinGorithm: know what you need!"
-excerpt: "SkinGorithm is an application that helps users in their skincare journey. With this app users can understand more about the skincare function, pros, and cons based on the ingredients, providing a facial skin reviewer that allows user to know their facial condition, alarm feature to remind the users of their skincare daily usage, and the most important thing they can see their progress in their skincare journey!"
-date: 2022-04-30
+title: "All About Einstein: An LLM-Powered Exploration of Albert Einstein"
+excerpt: "All About Einstein is a question-answering application focused on Albert Einstein. Utilizing the knowledge base extracted from the Britannica Albert Einstein encyclopedia, this project employs and the FLAN-T5 LLM model from Hugging Face. The user-friendly interface, designed using Streamlit, and the application's pipeline is constructed using the Langchain framework, enabling users to pose a wide range of questions related to Albert Einstein's life and work."
+date: 2023-09-06
 collection: portfolio
 ---
 
-# SkinGorithm: know what you need!
+<div style="text-align:center;">
+    <h1>All About Einstein: An LLM-Powered Exploration of Albert Einstein</h1>
+</div>
+
+<div style="text-align:center;">
+    <image src="/images/demo_gif.gif" controls title="Title"></image>
+</div>
+
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Shoutout!](#shoutout)
+- [Know more about me!](#know-more-about-me)
+
+# About the Project
+All About Einstein is a question-answering application focused on Albert Einstein. Utilizing the knowledge base extracted from the [Britannica Albert Einstein encyclopedia](https://www.britannica.com/biography/Albert-Einstein), this project employs [instructor text embeddings](https://huggingface.co/hkunlp/instructor-xl) and the [FLAN-T5 LLM model](https://huggingface.co/google/flan-t5-xxl) from Hugging Face. The user-friendly interface, designed using [Streamlit](https://streamlit.io/), and the application's pipeline is constructed using the [Langchain](https://python.langchain.com/docs/get_started/introduction.html) framework, enabling users to pose a wide range of questions related to Albert Einstein's life and work.
+
+<div style="text-align:center;">
+    <image src="/images/how it work.jpg" controls title="How it works"></image>
+</div>
+
+# Setup
+1. install the dependecies needed\
+   ```pip install -r requirements.txt```
+2. Add yout huggingface API key to the `.env` file in your directory \
+   ```HUGGINGFACEHUB_API_TOKEN=your_secrit_api_key```
+
+# Usage
+1. Ensure that you have installed the required dependencies adn added the huggingface API key to the `.env` file
+2. In the terminal, run this command:\
+   ```streamlit run app.py```
+3. The app will launch in you default web, displaying the UI
+4. Ask a question about Albert Einstein!
+
+# Shoutout!
+Special thanks to Alejandro AO for being an invaluable source of knowledge and guidance in helping me learn more about LLM and its applications. Be sure to check out his informative content on his [YouTube channel](https://www.youtube.com/@alejandro_ao)
+
+# Know more about me!
+github repository: [This project's repository link](https://github.com/mhamidasn/All-About-Einstein-An-LLM-Powered-Exploration-of-Albert-Einstein#all-about-einstein-an-llm-powered-exploration-of-albert-einstein)\
+linkedin: [linkedin.com/in/mhamidasn](https://www.linkedin.com/in/mhamidasn/)\
+github: [github.com/mhamidasn](https://github.com/mhamidasn)
 
 <p align="center">
-  <img src="/images/32.png" alt="Alt text">
+  <strong>🌌Here's to pushing boundaries, unraveling mysteries, and creating a future woven with the threads of innovation🌌</strong>
 </p>
-
-
-## About The Project
-
-Skin Gorithm is an application that helps users in their skincare journey. With this app users can understand more about the skincare function, pros, and cons based on the ingredients, providing a facial skin reviewer that allows user to know their facial condition, alarm feature to remind the users of their skincare daily usage, and the most important thing they can see their progress in their skincare journey!
-
-## Team Members
-
-| Name                           | Division           | University                          | Contact                                                                                                                                                                                            |
-| ------------------------------ | ------------------ |  ---------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mohammad Hamid Asnawi          | Machine Learning   | Universitas Padjadjaran             | <a href="https://www.linkedin.com/in/mhamidasn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                                  |
-| Nuril Hidayati                 | Machine Learning   | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/nuril-hidayati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                             |
-| Ahdan Amanullah Irfan Muzhafar | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/ahdan-amanullah-irfan-muzhaffar-1335b8178/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  |
-| Husin Muhammad Assegaff        | Mobile Development | Institut Teknologi Sepuluh Nopember | <a href="https://www.linkedin.com/in/husinassegaff/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                              |
-| Difa Maulana                   | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/difa-maulana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                               |
-| Taris Muhammad Hadyansyah      | Cloud Computing    | Universitas Gadjah Mada             | <a href="https://www.linkedin.com/in/taris-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>                             |
-
-
-<br>
-
-if you are interested in discussing this project issues with us, please contact us 
-
-## Documentation
-
-In our project is divided into four documentation.
-
-[Check out our project on GitHub!](https://github.com/Skingorithm/Capstone_Bangkit/tree/main)
-
-1. [Mobile Development](https://github.com/Skingorithm/Capstone_Bangkit/tree/Mobile-Development)
-2. [Machine Learning](https://github.com/Skingorithm/Capstone_Bangkit/tree/Machine-Learning)
-3. [Cloud Computing: Private API](https://github.com/Skingorithm/Capstone_Bangkit/tree/Cloud-Computing)
-4. [Cloud Computing: Machine Learning Service](https://github.com/Skingorithm/skingorithm-face-recognition)
