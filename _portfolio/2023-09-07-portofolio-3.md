@@ -1,7 +1,7 @@
 ---
 title: "PDFs to Bot: Empowering Chatbots with Custom PDFs Knowledge Using LLM"
 excerpt: "PDFs to Bot is a chatbot question answering application designed to empower users with customized knowledge extracted from uploaded PDF documents. Leveraging the capabilities of free embedding and the LLM from Hugging Face, specifically the instructor text embeddings and the FLAN-T5 LLM model. The user-friendly interface is built using Streamlit, ensuring a seamless and intuitive experience. Powered by the Langchain framework, PDFs to Bot delivers tailored responses and enhances document accessibility, making it a versatile tool for various knowledge-driven applications."
-date: 2023-09-06
+date: 2023-09-07
 collection: portfolio
 ---
 
@@ -24,7 +24,7 @@ collection: portfolio
 PDFs to Bot is a chatbot question answering application designed to empower users with customized knowledge extracted from uploaded PDF documents. Leveraging the capabilities of free embedding and the LLM from Hugging Face, specifically the [instructor text embeddings](https://huggingface.co/hkunlp/instructor-xl) and the [FLAN-T5 LLM model](https://huggingface.co/google/flan-t5-xxl). The user-friendly interface is built using [Streamlit](https://streamlit.io/), ensuring a seamless and intuitive experience. Powered by the [Langchain](https://python.langchain.com/docs/get_started/introduction.html) framework, PDFs to Bot delivers tailored responses and enhances document accessibility, making it a versatile tool for various knowledge-driven applications.
 
 <div style="text-align:center;">
-    <image src="images/how it work2.jpg" controls title="How it works"></image>
+    <image src="/images/how it work2.jpg" controls title="How it works"></image>
 </div>
 
 # Setup
