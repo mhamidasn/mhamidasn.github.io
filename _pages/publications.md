@@ -16,7 +16,7 @@ For more detailed and comprehensive information on all of my publications, pleas
 
 Below, you can find summaries, related information for each publication, and download the respective papers.
 
-## Hamid's Publication Archie
+## Hamid's Publication Archive
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
