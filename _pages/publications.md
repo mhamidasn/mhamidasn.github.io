@@ -18,7 +18,10 @@ Below, you can find related information for each publication, and download the r
 
 # Hamid's Publication Archive
 
-## Paper Publication
+[Jump to Paper Publication](#sc1)
+[Jump to Dataset Publication](#sc2)
+
+## Paper Publication {#sc1}
 
 ### The Combination of Contextualized Topic Model and MPNet for User Feedback Topic Modeling
 <table>
@@ -336,7 +339,7 @@ Below, you can find related information for each publication, and download the r
   </tr> 
 </table>
 
-## Dataset Publication
+## Dataset Publication {#sc2}
 
 ### User Feedback Dataset from the Top 15 Downloaded Mobile Applications
 <table>
