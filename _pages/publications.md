@@ -18,7 +18,7 @@ Below, you can find related information for each publication, and download the r
 
 # Hamid's Publication Archive
 
-[Jump to Paper Publication](#sc1)
+[Jump to Paper Publication](#sc1) <br>
 [Jump to Dataset Publication](#sc2)
 
 ## Paper Publication {#sc1}
