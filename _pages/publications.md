@@ -110,6 +110,35 @@ Below, you can find related information for each publication, and download the r
   </tr> 
 </table>
 
+### A Deep Learning Review of ResNet Architecture for Lung Disease Identification in CXR Image
+<table>
+  <tr>
+    <td>Published in</td>
+    <td>:</td>
+    <td>MDPI Applied Sciences – 8 December 2023</td>
+  </tr>
+  <tr>
+    <td>Written in</td>
+    <td>:</td>
+    <td>English</td>
+  </tr>
+  <tr>
+    <td>Authorship</td>
+    <td>:</td>
+    <td>Fifth Author</td>
+  </tr>
+  <tr>
+    <td>DOI</td>
+    <td>:</td>
+    <td>10.3390/app132413111</td>
+  </tr> 
+  <tr>
+    <td>Link</td>
+    <td>:</td>
+      <td><a href="https://www.mdpi.com/2076-3417/13/24/13111">[Publication Page]</a> <a href="https://www.mdpi.com/2076-3417/13/24/13111/pdf?version=1702047362">[Paper Link]</a> </td>
+  </tr> 
+</table>
+
 ### The ensemble distance on model-based clustering for regions clustering based on rainfall: The case of rainfall in West Java Indonesia
 <table>
   <tr>
