@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-C6YPS6TP3D"
 
 
 # Site Author
@@ -301,11 +301,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-analytics:
-  provider: "google-universal"
-  google:
- 	tracking_id: "G-C6YPS6TP3D"
 
 # HTML Compression
 # - http://jch.penibelst.de/
