@@ -302,6 +302,10 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+analytics:
+  provider: "google-universal"
+  google:
+ 	tracking_id: "G-C6YPS6TP3D"
 
 # HTML Compression
 # - http://jch.penibelst.de/
