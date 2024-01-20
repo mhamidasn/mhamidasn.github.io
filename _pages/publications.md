@@ -164,7 +164,7 @@ Below, you can find related information for each publication, and download the r
   <tr>
     <td>Link</td>
     <td>:</td>
-    <td><a href="https://www.growingscience.com/ijds/online/ijdns_2023_215.pdf">[Link]</a></td>
+    <td><a href="https://www.growingscience.com/ijds/Vol8/ijdns_2023_215.pdf">[Link]</a></td>
   </tr> 
 </table>
 
