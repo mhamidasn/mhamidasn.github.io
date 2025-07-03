@@ -52,6 +52,36 @@ Below, you can find related information for each publication, and download the r
   </tr> 
 </table>
 
+### STraVEns: Sentence Transformer Voting Ensemble for Intent Classification-Based Chatbot Model
+<table>
+  <tr>
+    <td>Published in</td>
+    <td>:</td>
+    <td>IEEE Access – 17 December 2024</td>
+  </tr>
+  <tr>
+    <td>Written in</td>
+    <td>:</td>
+    <td>English</td>
+  </tr>
+  <tr>
+    <td>Authorship</td>
+    <td>:</td>
+    <td>Second Author</td>
+  </tr>
+  <tr>
+    <td>DOI</td>
+    <td>:</td>
+    <td>10.1109/ACCESS.2024.3519223</td>
+  </tr> 
+  <tr>
+    <td>Link</td>
+    <td>:</td>
+      <td><a href="https://doi.org/10.1109/ACCESS.2024.3519223">[Publication Page]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10804807">[Paper Link]</a> </td>
+  </tr> 
+</table>
+
+
 ### Enhancing 3D Lung Infection Segmentation with 2D U-Shaped Deep Learning Variants
 <table>
   <tr>
